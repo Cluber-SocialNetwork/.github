@@ -7,3 +7,16 @@ Somos una plataforma innovadora para conectar estudiantes y facilitar la colabor
 - [Backend](https://github.com/UniClub-SocialNetwork/UClub-Backend)  
 
 📢 **Únete a nuestra comunidad y contribuye!**  
+
+## 🌎 Síguenos  
+📌 [Twitter](https://twitter.com/uniclub)  
+📌 [LinkedIn](https://linkedin.com/company/uniclub)  
+📌 [Discord](https://discord.gg/uniclub)  
+
+
+![GitHub Org's stars](https://img.shields.io/github/stars/UniClub-SocialNetwork?style=social)
+![GitHub forks](https://img.shields.io/github/forks/UniClub-SocialNetwork?style=social)
+![GitHub followers](https://img.shields.io/github/followers/UniClub-SocialNetwork?style=social)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UniClub-SocialNetwork&show_icons=true&theme=radical)
