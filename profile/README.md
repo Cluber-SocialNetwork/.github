@@ -11,7 +11,7 @@ Somos una plataforma innovadora para conectar estudiantes y facilitar la colabor
 ## 🌎 Síguenos  
 📌 [Twitter](https://twitter.com/cluber)  
 📌 [LinkedIn](https://linkedin.com/company/cluber)  
-📌 [Discord](https://discord.gg/cluber)  
+📌 [Discord](https://discord.gg/tG49q6kqhR)
 
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/UniClub-SocialNetwork?style=social)
